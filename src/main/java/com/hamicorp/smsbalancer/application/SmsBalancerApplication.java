@@ -1,4 +1,4 @@
-package com.hamicorp.smsbalancer;
+package com.hamicorp.smsbalancer.application;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

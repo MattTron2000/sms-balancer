@@ -1,4 +1,4 @@
-package com.hamicorp.smsbalancer;
+package com.hamicorp.smsbalancer.application;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
